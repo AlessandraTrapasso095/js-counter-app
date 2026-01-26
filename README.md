@@ -20,10 +20,10 @@ L’interfaccia è generata dinamicamente utilizzando JavaScript puro.
 ## Link del progetto
 
 - Repository GitHub: https://github.com/AlessandraTrapasso095/js-counter-app.git
-- Demo online: coming soon
+- Demo online: https://alessandratrapasso095.github.io/js-counter-app/
 
 ## Autore
 
 Alessandra Trapasso  
-GitHub Repositories: 
+GitHub Repositories: https://github.com/AlessandraTrapasso095?tab=repositories
 Sito Personale: https://alessandratrapasso095.github.io/portfolio-alessandra-trapasso/
