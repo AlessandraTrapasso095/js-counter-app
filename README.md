@@ -25,5 +25,5 @@ L’interfaccia è generata dinamicamente utilizzando JavaScript puro.
 ## Autore
 
 Alessandra Trapasso  
-GitHub Repositories: https://github.com/AlessandraTrapasso095?tab=repositories
-Sito Personale: https://alessandratrapasso095.github.io/portfolio-alessandra-trapasso/
+- GitHub Repositories: https://github.com/AlessandraTrapasso095?tab=repositories
+- Sito Personale: https://alessandratrapasso095.github.io/portfolio-alessandra-trapasso/
