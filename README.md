@@ -13,8 +13,8 @@ L’interfaccia è generata dinamicamente utilizzando JavaScript puro.
 
 ## Tecnologie utilizzate
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript 
 
 ## Link del progetto
