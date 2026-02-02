@@ -26,4 +26,4 @@ L’interfaccia è generata dinamicamente utilizzando JavaScript puro.
 
 Alessandra Trapasso  
 - GitHub Repositories: https://github.com/AlessandraTrapasso095
-- Sito Personale: alessandra-trapasso-web-developer.netlify.app
+- Sito Personale: https://alessandra-trapasso-web-developer.netlify.app/
