@@ -19,11 +19,11 @@ L’interfaccia è generata dinamicamente utilizzando JavaScript puro.
 
 ## Link del progetto
 
-- Repository GitHub: https://github.com/AlessandraTrapasso095/js-counter-app.git
-- Demo online: https://js-counter-app-alessandratrapasso095.netlify.app/
+- Repository GitHub progetto: https://github.com/AlessandraTrapasso095/js-counter-app.git
+- Demo online Netflify: https://js-counter-app-alessandratrapasso095.netlify.app/
 
 ## Autore
 
 Alessandra Trapasso  
-- GitHub Repositories: https://github.com/AlessandraTrapasso095?tab=repositories
-- Sito Personale: https://alessandratrapasso095.github.io/portfolio-alessandra-trapasso/
+- GitHub Repositories: https://github.com/AlessandraTrapasso095
+- Sito Personale: alessandra-trapasso-web-developer.netlify.app
